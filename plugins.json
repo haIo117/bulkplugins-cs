@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/OnlineSerieTV.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "OnlineSerieTV",
+        "internalName": "OnlineSerieTV",
+        "authors": [
+            "DieGon"
+        ],
+        "description": "Film e SerieTV da OnlineSerieTV",
+        "fileSize": 35939,
+        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "language": "it",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon",
+            "Anime",
+            "Documentary"
+        ],
+        "iconUrl": "https://lingering-truth-455c.diegon7771.workers.dev/wp-content/uploads/2023/01/cropped-tv-1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1e27604aab98e491c29c0df94c2487fa06600ac9897668813da094eae05124aa"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",
+        "status": 1,
+        "version": 52,
+        "name": "StreamingCommunity",
+        "internalName": "StreamingCommunity",
+        "authors": [
+            "doGior",
+            "Nanduuu03",
+            "DieGon"
+        ],
+        "description": "Film e SerieTV da StreamingCommunity",
+        "fileSize": 64036,
+        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "language": "it",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/StreamingCommunity/streamingunity_icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0639b987646eba4d26fe0c5a494b39327801909e34d5bfaa167e3d8649e18caa"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AllMovieLandProvider.cs3",
         "status": 1,
         "version": 19,
