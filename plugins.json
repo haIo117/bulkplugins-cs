@@ -1,0 +1,1777 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AllMovieLandProvider.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "AllMovieLandProvider",
+        "internalName": "AllMovieLandProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "fileSize": 36805,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c8dee7c7ec275a30f8809f18227207f0fb830dc9849b6aaeda8c033c7db64776",
+        "jarFileSize": 160864,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AllMovieLandProvider.jar",
+        "jarHash": "sha256-3bc32c07ce6ff42e72016fc8bf0827c238bf6ccde889606b5e272f31dde94c62"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AllWish.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "AllWish",
+        "internalName": "AllWish",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime from all-wish.me",
+        "fileSize": 40833,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "All"
+        ],
+        "iconUrl": "https://all-wish.me/assets/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6b391e08a7e866a7b826fde20ec695be699ac657cd07e2ef37a16d1f8fdb4ee6",
+        "jarFileSize": 162044,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AllWish.jar",
+        "jarHash": "sha256-8ca6a8d0eb64f8f6d073f3c13277926d5437abc5ea15542f26d88ce6e2b7e5fd"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anichi.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "Anichi",
+        "internalName": "Anichi",
+        "authors": [
+            "Hexated,Phisher98"
+        ],
+        "fileSize": 110319,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ddaa19d9a2972fc22dafbce155e063671e7a5537d7231e7bfc9a96806759b5cd"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AniDb.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "AniDb",
+        "internalName": "AniDb",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Animes",
+        "fileSize": 51386,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://anidb.app/images/fav-512.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e5841c015c9e8f0674b699c1adc562f25a9cf2a935007b25462c2653de5adf18"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anikage.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Anikage",
+        "internalName": "Anikage",
+        "authors": [
+            "Phisher98"
+        ],
+        "fileSize": 29193,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://anikage.cc/",
+        "apiVersion": 1,
+        "fileHash": "sha256-2b7dec85adad30e70ad1e48ffca2039faafa72874203ffa703cb25c615b6ce8d",
+        "jarFileSize": 162158,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anikage.jar",
+        "jarHash": "sha256-c8f29c60e21675556d41c2dd5047cfcfdf4a3fe909dd5ee38eebdd421c268708"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animeav1.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "Animeav1",
+        "internalName": "Animeav1",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "(Mexican) Anime Extension",
+        "fileSize": 18796,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeav1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6f34299c31f7bc63c78d0b8d9ea06f339b098b48f7e8ad3051c7271e9e9015b1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AnimeCloud.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "AnimeCloud",
+        "internalName": "AnimeCloud",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "German (Lang) Anime",
+        "fileSize": 36447,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "de",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-7209368f312abe1a2df88930963947c042dba02e65a0e14d3daa9c328f8c08d2",
+        "jarFileSize": 163830,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AnimeCloud.jar",
+        "jarHash": "sha256-cc4bde28a848877e52e739084f4fd91c98c0ecb313809dfc926680a0841ec727"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AnimeDekhoProvider.cs3",
+        "status": 1,
+        "version": 67,
+        "name": "AnimeDekhoProvider",
+        "internalName": "AnimeDekhoProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
+        "fileSize": 70982,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-b68afbbd89fd418e714443f338ff36356ab6adf4398b53afff53c0d3fe229ca0",
+        "jarFileSize": 363764,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AnimeDekhoProvider.jar",
+        "jarHash": "sha256-28e752268f4db8ba0663a8707045036d1c3dc61ac70290b45aa82f086cfc190e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animedubhindi.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Animedubhindi",
+        "internalName": "Animedubhindi",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime in Multi Lang",
+        "fileSize": 44972,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animedubhindi.cc&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-179ddccbaab03905462196a051e0d155c62396e92e423c5342ff1d73b0b53c58"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animekhor.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Animekhor",
+        "internalName": "Animekhor",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime and Movies includes (Donghuaword)",
+        "fileSize": 24892,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "zh",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekhor.org&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-fdec66775b8895836d6ea47c8b2d821678b2ff051b8b98ffdb75f55624cf52ac",
+        "jarFileSize": 105722,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animekhor.jar",
+        "jarHash": "sha256-201a1e971572e499d68b9805cc4ce7a53ac579b6712b79c04f3cc09acc26cff2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animenosub.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Animenosub",
+        "internalName": "Animenosub",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime and Movies",
+        "fileSize": 18312,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animenosub.to&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-dc8aab1488255ffa2d7a7b3f59f5e0419816b66d23133cd3c714b53b5f1151b9",
+        "jarFileSize": 78995,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animenosub.jar",
+        "jarHash": "sha256-ffe000331e6d888c51e9480209793dede8e08bc119184ac4d4939d754cf5323c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/AnimePahe.cs3",
+        "status": 1,
+        "version": 27,
+        "name": "AnimePahe",
+        "internalName": "AnimePahe",
+        "authors": [
+            "Cloudburst,Lorem Ipsum,Phisher98"
+        ],
+        "description": "Animes (SUB/DUB)",
+        "fileSize": 74593,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-03f615774180f1f0a5e1fae04be5c3fba1e577517cf1ef56bddba07b90bd8014"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animesalt.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "Animesalt",
+        "internalName": "Animesalt",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime/Cartoon in Hindi",
+        "fileSize": 41449,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ac&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-194653086797aa07abd95137f59bb070191fc48df2978f768a2904ff035a863b",
+        "jarFileSize": 173809,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animesalt.jar",
+        "jarHash": "sha256-df11cf4873f62509cc1139789da69beaf9995b7b1853102ede413823fc51ba49"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animexin.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Animexin",
+        "internalName": "Animexin",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime and Movies",
+        "fileSize": 14921,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-ff256405596579c207f390214de9dca7b1cff19fd029495788563e8ed0041f5b",
+        "jarFileSize": 60362,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Animexin.jar",
+        "jarHash": "sha256-fb8b4be12e1181403ef0cabd5433b87e390595906ce9c90553b70705f6e7c648"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anineko.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Anineko",
+        "internalName": "Anineko",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime from Anineko",
+        "fileSize": 31728,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Anineko.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e5583db3c292c02ec52394c71337fa3ccfe0d836186edad48448aab7da39eb4a",
+        "jarFileSize": 127215,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anineko.jar",
+        "jarHash": "sha256-17e3c2eb7d8c285302f718b26c8a89779acec319dc0c0de9a3fc7891fbb97664"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Aniworld.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Aniworld",
+        "internalName": "Aniworld",
+        "authors": [
+            "Phisher98,Hexated"
+        ],
+        "description": "Include: Serienstream (Login Required under Extension Settings)",
+        "fileSize": 53965,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "de",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2612d7dede7b838f798c0ae0f9d9766f287da68e68f258ca12d2d32a0e36f2ed"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Anizone.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Anizone",
+        "internalName": "Anizone",
+        "authors": [
+            "ycngmn"
+        ],
+        "description": "Anizone.to streams latest anime content in multiple language.",
+        "fileSize": 18655,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/icons/anizone.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-fe494d0cf92415f1390579701d12510850b420944c8badca84c5bdf7585ab666"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/BanglaPlex.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "BanglaPlex",
+        "internalName": "BanglaPlex",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "BanglaPlex",
+        "fileSize": 21159,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=banglaplex.click&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-b4e3aded590a47dc89e1bc00cd0484b839cdaeb00d6f7d688302bce08302e3c7",
+        "jarFileSize": 89922,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/BanglaPlex.jar",
+        "jarHash": "sha256-c0fac65e3ba2c21c5ff287ba0ec1e9aa5338f8f83001e3a93d332d11769c60ec"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Cinefreak.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Cinefreak",
+        "internalName": "Cinefreak",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Bangla/Hindi Movies/Series",
+        "fileSize": 67971,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e0dd5be5c3f0a9c1f9e805a17762dd6cfa0d79cd794f49bb41d85e3d04b061a5",
+        "jarFileSize": 309077,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Cinefreak.jar",
+        "jarHash": "sha256-e114d54293a6199d5eda53b48366f52f3764569f370d1ae5e16e08cccbabf791"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Cinemacity.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "Cinemacity",
+        "internalName": "Cinemacity",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
+        "fileSize": 45122,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-4e25507ec749df5a46f66d1f00d7f5aeff25edab15eaac3a6bfcc3f798b1e847"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/CloudPlay.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "CloudPlay",
+        "internalName": "CloudPlay",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "CloudPlay Live TV Extension",
+        "fileSize": 30800,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cloudplay.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-fc01446417e30ad6fbec1140cd56a296c29030c74958d6d1ba29681b0b28f85b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Coflix.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "Coflix",
+        "internalName": "Coflix",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies,Series and Anime French Extension ",
+        "fileSize": 28798,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "fr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-cb54e7efaebb9092431102e84cb97957169f8328ae055df715b80a66daa67bb9",
+        "jarFileSize": 125671,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Coflix.jar",
+        "jarHash": "sha256-be5c8613d6d02efe46a389b2a8a1d780239067c75acb9ef55f58674dbf517175"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Desicinemas.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "Desicinemas",
+        "internalName": "Desicinemas",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Contains BollyZone",
+        "fileSize": 40042,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-58233af0feeb2d677fd5bdc92886e6b5e0e2f920d8098b46c5f58c16ca520f0e",
+        "jarFileSize": 197567,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Desicinemas.jar",
+        "jarHash": "sha256-56a221f50cf4cdd1e5a39b34591f8591e48a3ecdd9095ab220252f270d65dae4"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Donghuastream.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "Donghuastream",
+        "internalName": "Donghuastream",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Contains SeaTV (Chinese)",
+        "fileSize": 37895,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "zh",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-23a1d8c44fef0a518ec9929e32e8f078a8fd13ff64f7adc6cd655105cf390d7d",
+        "jarFileSize": 191698,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Donghuastream.jar",
+        "jarHash": "sha256-a118caab13ac2154f05942011877f758ba573f50ce1ac76a15982241166e5c88"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/DoraBash.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "DoraBash",
+        "internalName": "DoraBash",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Doremon Show in Hindi",
+        "fileSize": 22630,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dorabash.in&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-f99f705a1a13dc6310a48f22c4423525afef28d31107d9aa490e2765df3d96e9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/DudeFilms.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "DudeFilms",
+        "internalName": "DudeFilms",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Watch Movies & TvSeries (Multi-Lang)",
+        "fileSize": 68718,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c09abd6975b49722e3a31f70c4fabcd23c81f276056b22bd14ae613c039a1e56"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Fibwatch.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Fibwatch",
+        "internalName": "Fibwatch",
+        "authors": [
+            "Phisher98"
+        ],
+        "fileSize": 40231,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab5d69356def5af065025e0718b1e2faaad96529c1cc58fbf3c77358aec4f9c6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Fivemovierulz.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "Fivemovierulz",
+        "internalName": "Fivemovierulz",
+        "authors": [
+            "darkdemon",
+            "Dilip"
+        ],
+        "description": "Movies & Series",
+        "fileSize": 12075,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-2cf9bf8fa6abb7bb698510e38ff0d238c0a8f067fac6ac0f168aa04a502621cf",
+        "jarFileSize": 44150,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Fivemovierulz.jar",
+        "jarHash": "sha256-1cb35537d06e8a04e6ccf93083a6062d285f11c876cd29108c2ee43391c6c386"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/FourKHDHub.cs3",
+        "status": 1,
+        "version": 34,
+        "name": "FourKHDHub",
+        "internalName": "FourKHDHub",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "4K Movies Extension by HDHUB4U",
+        "fileSize": 65356,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d9bdaf4fb36f05b74cfa8b8047a5c83c40eff443b2b1ead37821c0f6bbf49fb4"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Goojara.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Goojara",
+        "internalName": "Goojara",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies and Series (Mostly 720p)",
+        "fileSize": 43791,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goojara.to/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-bf74c710700fd077fbcaaef35e4d86fbd425798a2d075a3b8d2594a5307e584e",
+        "jarFileSize": 175287,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Goojara.jar",
+        "jarHash": "sha256-31357c716786c8f294d3ea58a080ac884f663127040d765495525bda1278860e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/HDhub4u.cs3",
+        "status": 1,
+        "version": 49,
+        "name": "HDhub4u",
+        "internalName": "HDhub4u",
+        "authors": [
+            "Phisher98"
+        ],
+        "fileSize": 78373,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c3abe0d97945dc07a4feee8888f633cbdd13d779a4bcd004eae53816c4f8358f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Hindmoviez.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "Hindmoviez",
+        "internalName": "Hindmoviez",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Watch Movies & TvSeries (Multi-Lang)",
+        "fileSize": 52785,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-281e583760955ead4f53d3d9f327c1bd9059043ae7488925e763c3503f9c719a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/IdlixProvider.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "IdlixProvider",
+        "internalName": "IdlixProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "fileSize": 57278,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-fa93aea359102eca0f27f2c3085f05efbd6c44beefd30c1a0e5c5930650eecf6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/IPTVPlayer.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "IPTVPlayer",
+        "internalName": "IPTVPlayer",
+        "authors": [
+            "Phisher98,Adippe"
+        ],
+        "description": "IPTV Player",
+        "fileSize": 19353,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0af73c65be0f746a202af35ef9208210e899aace545b5bcc6f8ed11d8f8b95d5",
+        "jarFileSize": 77826,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/IPTVPlayer.jar",
+        "jarHash": "sha256-082c63abe6015212c79f334cd1518c3390eba83668e5ab5b8ac669fda24929cd"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Jellyfin.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "Jellyfin",
+        "internalName": "Jellyfin",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media",
+        "fileSize": 62997,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/jellyfin.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0894afa5b099640ec2f1f4f244e00f82456c8a60c13bf85434684f6381061f64"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/KayiFamilyTv.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "KayiFamilyTv",
+        "internalName": "KayiFamilyTv",
+        "authors": [
+            "KaifTaufiq"
+        ],
+        "description": "KayiFamilyTv has Turkish Drama and Documentaries with English / Spanish Subtitles.",
+        "fileSize": 31838,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/KayiFamilyTv/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a9aa84ac6d42c7fdbfb702cda645aae9fc486a32755636dab81feb2c611e7773"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Kickassanime.cs3",
+        "status": 1,
+        "version": 23,
+        "name": "Kickassanime",
+        "internalName": "Kickassanime",
+        "authors": [
+            "Phisher98,Hexated"
+        ],
+        "fileSize": 53742,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/KAA.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0b4e1d2799d83017e41a86979c95a644deff42a195bb9a420702a1653e63672b",
+        "jarFileSize": 251646,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Kickassanime.jar",
+        "jarHash": "sha256-117e03be79a11fac028b928e622c5cba29d0ee75e81b1753f6d7da6d77ac0fb0"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/KisskhProvider.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "KisskhProvider",
+        "internalName": "KisskhProvider",
+        "authors": [
+            "Phisher98,Hexated,Peerless"
+        ],
+        "fileSize": 39258,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2fb9d5e369a161d7caf7afd9e7ded6a9ccabdacf6cde2c2d9585e27f7fe27666",
+        "jarFileSize": 155244,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/KisskhProvider.jar",
+        "jarHash": "sha256-e366c9364e25e059aecfb53ed7421387391759d9d1d3306c20e237cd3be173b6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Latanime.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Latanime",
+        "internalName": "Latanime",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "(Mexican) Anime Extension",
+        "fileSize": 13866,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://latanime.org/public/img/logito.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d2bf1900d866520e12f67db70c1cd7297048413f3cdc4ff5f1dddb7fd4a4c892"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/LayarKacaProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "LayarKacaProvider",
+        "internalName": "LayarKacaProvider",
+        "authors": [
+            "Hexated,Phisher98"
+        ],
+        "fileSize": 20771,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-381bce83a9f0918f47200c79011c1a234f6988ffb6a0434d9bf9321c59a6477e",
+        "jarFileSize": 84091,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/LayarKacaProvider.jar",
+        "jarHash": "sha256-a4c288812251b6300e6865aee7798bd16a647d2d1e7f8ada71ac3237f0b5c93b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MassTamilanProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "MassTamilanProvider",
+        "internalName": "MassTamilanProvider",
+        "authors": [
+            "Phisher98,LikDev-256"
+        ],
+        "description": "Indian Multi-language Music Provider",
+        "fileSize": 16646,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "ta",
+        "tvTypes": [
+            "Music",
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MassTamilanProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4d7450c76fbc238cb149bf682ea9ca5f46f121377436654bb0d8cb909b0b2a41",
+        "jarFileSize": 60978,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MassTamilanProvider.jar",
+        "jarHash": "sha256-c44cabc67a24657b504296d8499edc832bd049bf18b1d7d83d61c3836af74c07"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Megakino.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "Megakino",
+        "internalName": "Megakino",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies,Series and Anime German Extension ",
+        "fileSize": 19557,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "de",
+        "tvTypes": [
+            "Movie,Anime,Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Megakino.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-46b029d95853072d01a502c43ed21773fbe97c918769028c059750da13efc708",
+        "jarFileSize": 77148,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Megakino.jar",
+        "jarHash": "sha256-c0609c8864c47447021249a44dcbf4f78bfcbc73151cb85371cf06b056d73380"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MovieBlast.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "MovieBlast",
+        "internalName": "MovieBlast",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "MovieBlast App",
+        "fileSize": 31970,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d42a94b1084c4d10672319a7b9725598948801c4d935fff23e156d7aaf0b13cb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MovieBoxProvider.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "MovieBoxProvider",
+        "internalName": "MovieBoxProvider",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "description": "Multi Language Movies and Series Provider",
+        "fileSize": 72427,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Movierulzhd.cs3",
+        "status": 1,
+        "version": 155,
+        "name": "Movierulzhd",
+        "internalName": "Movierulzhd",
+        "authors": [
+            "Phisher98,hexated"
+        ],
+        "description": "Includes: Hdmovie2,hdmovie6",
+        "fileSize": 59193,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-86fd4db4fe7f34eb7e045dc15159b1aae25d54f602d7d67056d404f1dbcc5e82",
+        "jarFileSize": 303036,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Movierulzhd.jar",
+        "jarHash": "sha256-d13cadd0e303c0a225879e161e28c10932c3a2743ce9117e92dd15993f52e047"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Movies4u.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Movies4u",
+        "internalName": "Movies4u",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies4u",
+        "fileSize": 73025,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c7f32daccf36cc6e1f020b39fcd5a78a9cf24acac2f7374f5e9842d6bbced396",
+        "jarFileSize": 358384,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Movies4u.jar",
+        "jarHash": "sha256-5fce9570c4a01dbd3d1c2d8ff3688b77d59398fbb383f980377708e9627d3742"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MPlayerProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "MPlayerProvider",
+        "internalName": "MPlayerProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
+        "fileSize": 93211,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-65e17c13bcfbddd1d3ad3edd0a05f68d0609f5e8c9f73b1825e3af5d1d09c0f9",
+        "jarFileSize": 501797,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MPlayerProvider.jar",
+        "jarHash": "sha256-084ee2de7a39f4b057b87de7a737b36afec578d393933701302da2726ad2fe5f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MultiMoviesProvider.cs3",
+        "status": 1,
+        "version": 50,
+        "name": "MultiMoviesProvider",
+        "internalName": "MultiMoviesProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian Multi-language HD Provider",
+        "fileSize": 45914,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-73ac64cdaf26d31d3da9bf687f309f202aa7f39b9d0dad883d3793b9663b24fb",
+        "jarFileSize": 198279,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/MultiMoviesProvider.jar",
+        "jarHash": "sha256-b43ae7eedce25262750782eefb97b8e948f9317e9bdd0b3ba4b88ddf388129df"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Netcinez.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Netcinez",
+        "internalName": "Netcinez",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies,Series and Anime Portuguese Extension ",
+        "fileSize": 15238,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "pt-br",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://cdn.bcdn.zip/wp-content/uploads/2017/04/nc-header-responsive.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-cf1b5ed7cbc9229f5e251e1a22f72a23e8ca031a182b4418289ae5709dc9cc95",
+        "jarFileSize": 58105,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Netcinez.jar",
+        "jarHash": "sha256-2d95da6f910b30d62b13d3265778d65398135c7730d171225eebbda738b54a77"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/OHLI24.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "OHLI24",
+        "internalName": "OHLI24",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime and movies with Korean subtitles only (no Korean audio)",
+        "fileSize": 19131,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "ko",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://ani.ohli24.com/img/logo@2x.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab0372c339557e8f3cea095560645d0a8989985e394e7f0dcba570dce9a2fad2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/OnePace.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "OnePace",
+        "internalName": "OnePace",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "One Pace",
+        "fileSize": 34416,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/onepace.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-53e639dcc9954852c70363dd6e911fe86294df71c2df4083ffc459c0725d7151",
+        "jarFileSize": 153297,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/OnePace.jar",
+        "jarHash": "sha256-f98cb6329d57eed414d13f3c2e87728fe37c0c5b7d45b69a5542c34cf08112db"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/OneTouchTV.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "OneTouchTV",
+        "internalName": "OneTouchTV",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Asian Dramas",
+        "fileSize": 43091,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-ede93d4109d1f8e680e304da96e8ab5b6275d372126be877df108d523729a4b6",
+        "jarFileSize": 202439,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/OneTouchTV.jar",
+        "jarHash": "sha256-2ab8fc126ee1a27a8e234119b8db7a08796699f2066c678665457c6119e4d0d9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Pencurimovie.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Pencurimovie",
+        "internalName": "Pencurimovie",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Pencurimovie ",
+        "fileSize": 13757,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-498530d105363370af597871998336801770dfd6cd3f513382754a5342be648c",
+        "jarFileSize": 53324,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Pencurimovie.jar",
+        "jarHash": "sha256-cc160de42b72e6587c2da8885bd8fd9cd56dd1d34689ea6ab9694cddc718b745"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Pinoymoviepedia.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Pinoymoviepedia",
+        "internalName": "Pinoymoviepedia",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Contains Bluray7",
+        "fileSize": 21426,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "fil",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+        "apiVersion": 1,
+        "fileHash": "sha256-1da05eeae0b2ea3a6418965f277ae642843607c28feebdb90151cbb0324a0665",
+        "jarFileSize": 94659,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Pinoymoviepedia.jar",
+        "jarHash": "sha256-b9b1415b07330d53ea9d7ffed0c7ed56b3f35d7f29f150a48ba8f437d5b6140a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Piratexplay.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Piratexplay",
+        "internalName": "Piratexplay",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Anime/Cartoon in Hindi",
+        "fileSize": 33045,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/piratexplay.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d387a463e4cbc54e3456859a8ec8983517cdb9fd31125ecdf78c8428710dc503",
+        "jarFileSize": 132564,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Piratexplay.jar",
+        "jarHash": "sha256-0723de828c965629a067a08b4d94c40899530da0a573d53425befd5c6065d7e8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Pmsm.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Pmsm",
+        "internalName": "Pmsm",
+        "authors": [
+            "Phisher98,Duro92"
+        ],
+        "description": "PMSM (Pencuri Movie Sub Malay)",
+        "fileSize": 25283,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c95d64158bd66f32f9cb759ae5a70e363da131344e737563d20960ace8440a7d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/PublicSportsIPTV.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "PublicSportsIPTV",
+        "internalName": "PublicSportsIPTV",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Sports Live Streams (FanCode)",
+        "fileSize": 23507,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.thestatesman.com/wp-content/uploads/2021/05/fancode.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-7370e3f5bb52db5971de1ee76a71301241f3db01533133f67fccf3ec962b2465",
+        "jarFileSize": 98440,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/PublicSportsIPTV.jar",
+        "jarHash": "sha256-a3fec193c88619ed518e8f1bbcefe4a531f5781c694c6074d0ab93dd316aa171"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/QuickIPTV.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "QuickIPTV",
+        "internalName": "QuickIPTV",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
+        "fileSize": 23099,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-93077d6fc5354e8fc9bf2390da91372e4a9ccdb31b9cdaf4ca06adbe974a3f94",
+        "jarFileSize": 157902,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/QuickIPTV.jar",
+        "jarHash": "sha256-27f1230c0f0723fc23fadd63429f31f0684720d4d0fc2331662e75eb8b493b1d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/RingZ.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "RingZ",
+        "internalName": "RingZ",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Ringz App",
+        "fileSize": 32021,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ringz.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6365acbb4cb4e9168e2a069989841ad477c265a29edb0f168d8d992e1f0f5f83"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/ShowBox.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "ShowBox",
+        "internalName": "ShowBox",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "ShowBox (Retrieve the cookie using Login with Google to properly utilize ShowBox.",
+        "fileSize": 115438,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://miro.medium.com/v2/1*DyU8bmnyyEiJbFROEXO2VA.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-9ea28d89e33a86cabb68df181608812e24601528afb83165c54e36a8435d8b1c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/StreamPlay.cs3",
+        "status": 1,
+        "version": 653,
+        "name": "StreamPlay",
+        "internalName": "StreamPlay",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "description": "#1 best extention based on MultiAPI",
+        "fileSize": 954302,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "fileHash": "sha256-6220a3b2927dff0a28fe86d24d07c2cbc8483bcb2ae74e17bdb96ed3ea317162"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/StremioAddon.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "StremioAddon",
+        "internalName": "StremioAddon",
+        "authors": [
+            "Hexated,phisher98,erynith"
+        ],
+        "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
+        "fileSize": 74999,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Torrent"
+        ],
+        "iconUrl": "https://files.catbox.moe/ol63rm.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-381f818d176722798e0a5f7b5473a12382ec10fadde5a2bf53f4a9465fe0467e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/StremioX.cs3",
+        "status": 1,
+        "version": 24,
+        "name": "StremioX",
+        "internalName": "StremioX",
+        "authors": [
+            "Hexated,phisher98"
+        ],
+        "description": "[!] Requires Setup \n- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons",
+        "fileSize": 172528,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-22777bbe544a8a2828a4f269277e291d1e909d051bd0ebcca3439da8d1cfb77b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/SuperStream.cs3",
+        "status": 1,
+        "version": 34,
+        "name": "SuperStream",
+        "internalName": "SuperStream",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
+        "fileSize": 129478,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
+        "apiVersion": 1,
+        "fileHash": "sha256-f0b45bf5a6ce5f3cac9724895e63a7db58a178bc60c71c31b8fbd00bc1aa4442"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Tamilblasters.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Tamilblasters",
+        "internalName": "Tamilblasters",
+        "authors": [
+            "rockhero1234,phisher98"
+        ],
+        "description": "Movies & Series",
+        "fileSize": 20063,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "ta",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4ae5e4737bda723177af42ac7150c06c2f49c6490712e359e3b559aa73e3db6a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/TokusatsuUltimate.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "TokusatsuUltimate",
+        "internalName": "TokusatsuUltimate",
+        "authors": [
+            "Phisher98,YoureMotherHelped-Love-Mom"
+        ],
+        "description": "Stream tokusatsu content including Kamen Rider, Super Sentai, Metal Heroes, and other Japanese special effect series with English subs",
+        "fileSize": 27393,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/TokusatsuUltimate/TokusatsuUltimateIcon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a0278c38378c8c2097e343270f844c6ab3168294e832e3c99ad4a0519508e009"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/TokuZilla.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "TokuZilla",
+        "internalName": "TokuZilla",
+        "authors": [
+            "KaifTaufiq,Phisher98"
+        ],
+        "description": "Stream tokusatsu content including Power Ranger, Kamen Rider, Super Sentai, Metal Heroes, and other Japanese special effect series with English subs",
+        "fileSize": 18344,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/TokuZilla/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f8ed0a62c8355a0c2a2ca4d54cd9f0226750b09517249e09971a1b88e0440288"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/ToonHub.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "ToonHub",
+        "internalName": "ToonHub",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "ToonHub4u Multi Language",
+        "fileSize": 26185,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://toonhub4u.co/wp-content/uploads/2024/02/Untitled.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-351fb029a543eea62b94de4d34a733e076ea96e6799e3eace9fe5c57ce928058",
+        "jarFileSize": 109867,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/ToonHub.jar",
+        "jarHash": "sha256-9b9055974ea773eca6929d7f761709fad694a685d7dbc62849b5b300f309d403"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Toonstream.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Toonstream",
+        "internalName": "Toonstream",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "ToonStream Multi Language",
+        "fileSize": 30823,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7dd801fb0cb1876788d7b11ab27e4ad308efa4010a1ed49d56df7b81d3606814",
+        "jarFileSize": 131515,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Toonstream.jar",
+        "jarHash": "sha256-2f961f4ee9afa1fa51c0fd7ca850af51683d1c9900a89424846f99d95ec54cf2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/ToonTales.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "ToonTales",
+        "internalName": "ToonTales",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "ToonTales",
+        "fileSize": 9983,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.toontales.net/wp-content/themes/toontales/images/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-67dffdda7680420b48b7320bdfca53ea8d840cfe89aa19db44bbb85a99da35c5",
+        "jarFileSize": 33785,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/ToonTales.jar",
+        "jarHash": "sha256-31ab62e41a4682b09082aaa82b8296bf1db86a94a7201ed7717dd4f3c610a167"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Topcartoons.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Topcartoons",
+        "internalName": "Topcartoons",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Top Cartoon",
+        "fileSize": 10124,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.topcartoons.tv/wp-content/uploads/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-843e8a77399207f12c073260a233c6d950ba13fc53ef6138adb1af8c51bd37fa",
+        "jarFileSize": 34757,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Topcartoons.jar",
+        "jarHash": "sha256-702841dad0ded5b452c9f0adc0be0709b3df0c8256d5ba646379a89a6d582bf3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Topstreamfilm.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Topstreamfilm",
+        "internalName": "Topstreamfilm",
+        "authors": [
+            "Phisher"
+        ],
+        "description": "Filme  and Serien (German)",
+        "fileSize": 17186,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "de",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.topstreamfilm.live/templates/topstreamfilm/images/logo-1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-bfbad61a9af089f95809f62331acbd3bb9723a1b9559652dfacc77a9ca63fa04",
+        "jarFileSize": 78445,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Topstreamfilm.jar",
+        "jarHash": "sha256-c9509a0f5ec180beb2db23ee81ed6828ee9f3bec93eeed20a360605e09199e78"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/TorraStream.cs3",
+        "status": 1,
+        "version": 90,
+        "name": "TorraStream",
+        "internalName": "TorraStream",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "#1 Best Extension \u2013 MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
+        "fileSize": 192073,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "Torrent",
+            "AsianDrama",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c1ce0e4a66566fd1d047cc61c04d89383591eba6da93c41aac0399e200bb4d2a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/UHDmoviesProvider.cs3",
+        "status": 1,
+        "version": 36,
+        "name": "UHDmoviesProvider",
+        "internalName": "UHDmoviesProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian Multi-language 4K Provider",
+        "fileSize": 51224,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-775ae99ad6dd4a3d42744c5925c71c1113f6d5f43ae3023b834db642e3377664"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Ultima.cs3",
+        "status": 2,
+        "version": 54,
+        "name": "Ultima",
+        "internalName": "Ultima",
+        "authors": [
+            "RowdyRushya,Phisher98"
+        ],
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "fileSize": 24528,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "All"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-42e0c7c6de38ac12b123f25436a40563604525de513e917c6eb9439acd2014ba"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/YTS.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "YTS",
+        "internalName": "YTS",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "YTS Movies 4K Support (Torrent)",
+        "fileSize": 15729,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "Torrent"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d7c7185019183200712abab55d53283af2527d9f9cd56913ef9ae443a487ee32",
+        "jarFileSize": 78912,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/YTS.jar",
+        "jarHash": "sha256-f8818a3f640aa8b6dedd190a195b4a02a40d4085a102b6a0413826f245da9ede"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Zinkmovies.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Zinkmovies",
+        "internalName": "Zinkmovies",
+        "authors": [
+            "Phisher98"
+        ],
+        "fileSize": 62981,
+        "repositoryUrl": "https://github.com/Devilaiger/Server_for_Korean_insta1",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/zing.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-61ab60e6d278a78a8d5866f01435f0eaacdb2b5acc2e8e564a4aedb3ecfddf93",
+        "jarFileSize": 259712,
+        "jarUrl": "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta1/builds/Zinkmovies.jar",
+        "jarHash": "sha256-9f8d7806ab1f1f977ca9ed6bb722d3df8038fa060eeab2eb0ae96d59088710c4"
+    }
+]
