@@ -1,0 +1,9 @@
+{
+    "name": "Bulk Plugins",
+    "iconUrl": "https://i.postimg.cc/htntBsSy/Cloud-Stream3.png",
+    "description": "Bulk Plugins for CS3",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/haIo117/bulkplugins-cs/refs/heads/builds/plugins.json"
+    ]
+}
