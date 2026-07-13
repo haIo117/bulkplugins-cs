@@ -1,27 +1,25 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/OnlineSerieTV.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
         "status": 1,
-        "version": 4,
-        "name": "OnlineSerieTV",
-        "internalName": "OnlineSerieTV",
+        "version": 32,
+        "name": "Moviesmod",
+        "internalName": "Moviesmod",
         "authors": [
-            "DieGon"
+            "megix"
         ],
-        "description": "Film e SerieTV da OnlineSerieTV",
-        "fileSize": 35939,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
+        "description": "Movies, TV Series",
+        "fileSize": 44386,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "tvTypes": [
-            "Movie",
             "TvSeries",
-            "Cartoon",
-            "Anime",
-            "Documentary"
+            "Movie",
+            "AsianDrama",
+            "Anime"
         ],
-        "iconUrl": "https://lingering-truth-455c.diegon7771.workers.dev/wp-content/uploads/2023/01/cropped-tv-1.png",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1e27604aab98e491c29c0df94c2487fa06600ac9897668813da094eae05124aa"
+        "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",
